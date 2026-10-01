@@ -3,3 +3,5 @@
 env/
 ENV/
 env.bak/
+
+__pycache__
