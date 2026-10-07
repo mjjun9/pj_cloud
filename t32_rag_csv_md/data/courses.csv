@@ -1,0 +1,7 @@
+﻿course_id,category,level,price,total_videos,total_duration
+C1,Python,입문,0,20,600
+C2,Python,실무,99000,25,900
+C3,Data,입문,79000,18,540
+C4,Data,실무,149000,22,840
+C5,AI,입문,129000,16,480
+C6,AI,심화,199000,24,960

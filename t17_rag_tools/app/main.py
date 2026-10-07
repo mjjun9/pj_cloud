@@ -2,7 +2,7 @@ import streamlit as st
 from service import VectorService
 
 service = VectorService()
-st.title('t16_rag_fc')
+st.title('t17_rag_tools')
 
 #1. DB테이블 생성
 st.header('1. DB테이블 생성')
